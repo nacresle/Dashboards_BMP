@@ -1,0 +1,97 @@
+"ID","IDmuni","Municipio","IDComarca","Comarca","EspacioProtegido","FiguraProteccion","AreaHa_EP"
+"1",34003,"Abia de las Torres",3402,"Campos","No","No",NA
+"2",34004,"Aguilar de Campoo",3407,"Aguilar","Montaña Palentina","Parque Natural",347.789447157091
+"3",34004,"Aguilar de Campoo",3407,"Aguilar","Las Tuerces","Paisaje Protegido",1287.33666941962
+"4",34005,"Alar del Rey",3404,"Boedo-Ojeda","No","No",NA
+"5",34015,"Arconada",3402,"Campos","No","No",NA
+"6",34020,"Ayuela",3403,"Saldaña-Valdavia","No","No",NA
+"7",34025,"Bárcena de Campos",3402,"Campos","No","No",NA
+"8",34027,"Barruelo de Santullán",3407,"Aguilar","No","No",NA
+"9",34028,"Báscones de Ojeda",3404,"Boedo-Ojeda","No","No",NA
+"10",34034,"Boadilla del Camino",3402,"Campos","No","No",NA
+"11",34037,"Buenavista de Valdavia",3403,"Saldaña-Valdavia","No","No",NA
+"12",34038,"Bustillo de la Vega",3403,"Saldaña-Valdavia","No","No",NA
+"13",34039,"Bustillo del Páramo de Carrión",3403,"Saldaña-Valdavia","No","No",NA
+"14",34041,"Calahorra de Boedo",3404,"Boedo-Ojeda","No","No",NA
+"15",34042,"Calzada de los Molinos",3402,"Campos","No","No",NA
+"16",34047,"Carrión de los Condes",3402,"Campos","No","No",NA
+"17",34049,"Castrejón de la Peña",3406,"Cervera","Montaña Palentina","Parque Natural",1682.74082828825
+"18",34052,"Castrillo de Villavega",3402,"Campos","No","No",NA
+"19",34055,"Cervatos de la Cueza",3402,"Campos","No","No",NA
+"22",34056,"Cervera de Pisuerga",3406,"Cervera","Montaña Palentina","Parque Natural",25012.5938176379
+"23",34061,"Collazos de Boedo",3404,"Boedo-Ojeda","No","No",NA
+"24",34062,"Congosto de Valdavia",3403,"Saldaña-Valdavia","No","No",NA
+"25",34067,"Dehesa de Montejo",3406,"Cervera","Montaña Palentina","Parque Natural",841.619993534004
+"26",34068,"Dehesa de Romanos",3404,"Boedo-Ojeda","No","No",NA
+"27",34071,"Espinosa de Villagonzalo",3402,"Campos","No","No",NA
+"28",34073,"Fresno del Río",3405,"Guardo","No","No",NA
+"29",34074,"Frómista",3402,"Campos","No","No",NA
+"30",34080,"Guardo",3405,"Guardo","No","No",NA
+"31",34083,"Herrera de Pisuerga",3404,"Boedo-Ojeda","No","No",NA
+"32",34089,"Itero de la Vega",3402,"Campos","No","No",NA
+"33",34091,"Lagartos",3403,"Saldaña-Valdavia","No","No",NA
+"34",34092,"Lantadilla",3402,"Campos","No","No",NA
+"35",34093,"La Vid de Ojeda",3404,"Boedo-Ojeda","No","No",NA
+"36",34094,"Ledigos",3403,"Saldaña-Valdavia","No","No",NA
+"37",34100,"Mantinos",3405,"Guardo","No","No",NA
+"38",34101,"Marcilla de Campos",3402,"Campos","No","No",NA
+"39",34107,"Micieces de Ojeda",3404,"Boedo-Ojeda","No","No",NA
+"40",34109,"Moratinos",3402,"Campos","No","No",NA
+"41",34110,"Mudá",3406,"Cervera","No","No",NA
+"42",34112,"Nogal de las Huertas",3402,"Campos","No","No",NA
+"43",34113,"Olea de Boedo",3404,"Boedo-Ojeda","No","No",NA
+"44",34114,"Olmos de Ojeda",3404,"Boedo-Ojeda","No","No",NA
+"45",34116,"Osornillo",3402,"Campos","No","No",NA
+"46",34122,"Páramo de Boedo",3404,"Boedo-Ojeda","No","No",NA
+"47",34124,"Payo de Ojeda",3404,"Boedo-Ojeda","No","No",NA
+"48",34126,"Pedrosa de la Vega",3403,"Saldaña-Valdavia","No","No",NA
+"49",34129,"Pino del Río",3403,"Saldaña-Valdavia","No","No",NA
+"50",34131,"Población de Arroyo",3402,"Campos","No","No",NA
+"51",34132,"Población de Campos",3402,"Campos","No","No",NA
+"52",34135,"Pomar de Valdivia",3407,"Aguilar","Cascada de Covalagua","Monumento Natural",0.464020543370102
+"53",34135,"Pomar de Valdivia",3407,"Aguilar","Las Tuerces","Paisaje Protegido",739.131300521189
+"54",34135,"Pomar de Valdivia",3407,"Aguilar","Covalagua","Paisaje Protegido",2378.16568250339
+"55",34135,"Pomar de Valdivia",3407,"Aguilar","Laberinto de las Tuerces","Monumento Natural",54.9856002384653
+"57",34136,"Poza de la Vega",3403,"Saldaña-Valdavia","No","No",NA
+"58",34139,"Prádanos de Ojeda",3404,"Boedo-Ojeda","No","No",NA
+"59",34140,"La Puebla de Valdavia",3403,"Saldaña-Valdavia","No","No",NA
+"60",34143,"Quintanilla de Onsoña",3403,"Saldaña-Valdavia","No","No",NA
+"61",34147,"Renedo de la Vega",3403,"Saldaña-Valdavia","No","No",NA
+"62",34149,"Requena de Campos",3402,"Campos","No","No",NA
+"63",34151,"Respenda de la Peña",3405,"Guardo","No","No",NA
+"64",34152,"Revenga de Campos",3402,"Campos","No","No",NA
+"65",34154,"Revilla de Collazos",3404,"Boedo-Ojeda","No","No",NA
+"66",34157,"Saldaña",3403,"Saldaña-Valdavia","No","No",NA
+"67",34158,"Salinas de Pisuerga",3407,"Aguilar","No","No",NA
+"68",34161,"San Cristóbal de Boedo",3404,"Boedo-Ojeda","No","No",NA
+"69",34163,"San Mamés de Campos",3402,"Campos","No","No",NA
+"70",34168,"Santa Cruz de Boedo",3404,"Boedo-Ojeda","No","No",NA
+"71",34169,"Santervás de la Vega",3403,"Saldaña-Valdavia","No","No",NA
+"72",34170,"Santibáñez de Ecla",3404,"Boedo-Ojeda","No","No",NA
+"73",34171,"Santibáñez de la Peña",3405,"Guardo","No","No",NA
+"74",34175,"La Serna",3403,"Saldaña-Valdavia","No","No",NA
+"75",34176,"Sotobañado y Priorato",3404,"Boedo-Ojeda","No","No",NA
+"76",34179,"Tabanera de Valdavia",3403,"Saldaña-Valdavia","No","No",NA
+"77",34190,"Valderrábano",3403,"Saldaña-Valdavia","No","No",NA
+"78",34192,"Valde-Ucieza",3402,"Campos","No","No",NA
+"79",34199,"Velilla del Río Carrión",3405,"Guardo","Montaña de Riaño y Mampodre","Parque Regional",1.74319846235065
+"80",34199,"Velilla del Río Carrión",3405,"Guardo","Montaña Palentina","Parque Natural",17476.1861395454
+"81",34202,"Villabasta de Valdavia",3403,"Saldaña-Valdavia","No","No",NA
+"82",34208,"Villaeles de Valdavia",3403,"Saldaña-Valdavia","No","No",NA
+"83",34211,"Villaherreros",3402,"Campos","No","No",NA
+"84",34214,"Villalba de Guardo",3405,"Guardo","No","No",NA
+"85",34215,"Villalcázar de Sirga",3402,"Campos","No","No",NA
+"86",34218,"Villaluenga de la Vega",3403,"Saldaña-Valdavia","No","No",NA
+"87",34222,"Villameriel",3403,"Saldaña-Valdavia","No","No",NA
+"88",34223,"Villamoronta",3403,"Saldaña-Valdavia","No","No",NA
+"89",34228,"Villanuño de Valdavia",3403,"Saldaña-Valdavia","No","No",NA
+"90",34229,"Villaprovedo",3404,"Boedo-Ojeda","No","No",NA
+"91",34230,"Villarmentero de Campos",3402,"Campos","No","No",NA
+"92",34231,"Villarrabé",3403,"Saldaña-Valdavia","No","No",NA
+"93",34233,"Villasarracino",3402,"Campos","No","No",NA
+"94",34234,"Villasila de Valdavia",3403,"Saldaña-Valdavia","No","No",NA
+"95",34236,"Villaturde",3402,"Campos","No","No",NA
+"96",34245,"Villota del Páramo",3403,"Saldaña-Valdavia","No","No",NA
+"97",34246,"Villovieco",3402,"Campos","No","No",NA
+"98",34901,"Osorno la Mayor",3402,"Campos","No","No",NA
+"99",34903,"Loma de Ucieza",3402,"Campos","No","No",NA
