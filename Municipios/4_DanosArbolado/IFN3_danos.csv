@@ -1,0 +1,181 @@
+"ID","IDmuni","Municipio","Agente","AgenteN","Pies_con_este_dano","Total_pies","Porcentaje_dano"
+"1",34004,"Aguilar de Campoo",100,"No se advierten da√±os",657,722,91
+"2",34004,"Aguilar de Campoo",311,"Insectos",1,722,0.14
+"3",34004,"Aguilar de Campoo",313,"Plantas ep√≠fitas",3,722,0.42
+"4",34004,"Aguilar de Campoo",316,"Dominancia",48,722,6.65
+"5",34004,"Aguilar de Campoo",321,"Saca de madera",1,722,0.14
+"6",34004,"Aguilar de Campoo",322,"Causas antr√≥picas",1,722,0.14
+"7",34004,"Aguilar de Campoo",400,"Da√±os abi√≥ticos",9,722,1.25
+"8",34004,"Aguilar de Campoo",421,"Fuego",2,722,0.28
+"9",34005,"Alar del Rey",100,"No se advierten da√±os",70,87,80.46
+"10",34005,"Alar del Rey",316,"Dominancia",17,87,19.54
+"11",34020,"Ayuela",100,"No se advierten da√±os",243,248,97.98
+"12",34020,"Ayuela",200,"Causas desconocidas",3,248,1.21
+"13",34020,"Ayuela",316,"Dominancia",1,248,0.4
+"14",34020,"Ayuela",411,"Viento",1,248,0.4
+"15",34025,"B√°rcena de Campos",100,"No se advierten da√±os",30,35,85.71
+"16",34025,"B√°rcena de Campos",200,"Causas desconocidas",2,35,5.71
+"17",34025,"B√°rcena de Campos",310,"Hongos",3,35,8.57
+"18",34027,"Barruelo de Santull√°n",100,"No se advierten da√±os",45,68,66.18
+"19",34027,"Barruelo de Santull√°n",200,"Causas desconocidas",6,68,8.82
+"20",34027,"Barruelo de Santull√°n",316,"Dominancia",16,68,23.53
+"21",34027,"Barruelo de Santull√°n",400,"Da√±os abi√≥ticos",1,68,1.47
+"22",34037,"Buenavista de Valdavia",100,"No se advierten da√±os",614,738,83.2
+"23",34037,"Buenavista de Valdavia",200,"Causas desconocidas",3,738,0.41
+"24",34037,"Buenavista de Valdavia",300,"Da√±os bi√≥ticos",12,738,1.63
+"25",34037,"Buenavista de Valdavia",311,"Insectos",1,738,0.14
+"26",34037,"Buenavista de Valdavia",316,"Dominancia",105,738,14.23
+"27",34037,"Buenavista de Valdavia",321,"Saca de madera",3,738,0.41
+"28",34041,"Calahorra de Boedo",100,"No se advierten da√±os",78,92,84.78
+"29",34041,"Calahorra de Boedo",200,"Causas desconocidas",5,92,5.43
+"30",34041,"Calahorra de Boedo",316,"Dominancia",4,92,4.35
+"31",34041,"Calahorra de Boedo",421,"Fuego",5,92,5.43
+"32",34049,"Castrej√≥n de la Pe√±a",100,"No se advierten da√±os",278,332,83.73
+"33",34049,"Castrej√≥n de la Pe√±a",300,"Da√±os bi√≥ticos",1,332,0.3
+"34",34049,"Castrej√≥n de la Pe√±a",316,"Dominancia",33,332,9.94
+"35",34049,"Castrej√≥n de la Pe√±a",421,"Fuego",19,332,5.72
+"36",34049,"CCastrej√≥n de la Pe√±a",423,"Erosi√≥n",1,332,0.3
+"37",34055,"Cervatos de la Cueza",100,"No se advierten da√±os",5,5,100
+"38",34056,"Cervera de Pisuerga",100,"No se advierten da√±os",854,1088,78.49
+"39",34056,"Cervera de Pisuerga",200,"Causas desconocidas",3,1088,0.28
+"40",34056,"Cervera de Pisuerga",300,"Da√±os bi√≥ticos",13,1088,1.19
+"41",34056,"Cervera de Pisuerga",310,"Hongos",15,1088,1.38
+"42",34056,"Cervera de Pisuerga",311,"Insectos",2,1088,0.18
+"43",34056,"Cervera de Pisuerga",316,"Dominancia",117,1088,10.75
+"44",34056,"Cervera de Pisuerga",321,"Saca de madera",2,1088,0.18
+"45",34056,"Cervera de Pisuerga",322,"Causas antr√≥picas",3,1088,0.28
+"46",34056,"Cervera de Pisuerga",400,"Da√±os abi√≥ticos",41,1088,3.77
+"47",34056,"Cervera de Pisuerga",421,"Fuego",38,1088,3.49
+"48",34061,"Collazos de Boedo",100,"No se advierten da√±os",33,34,97.06
+"49",34061,"Collazos de Boedo",321,"Saca de madera",1,34,2.94
+"50",34062,"Congosto de Valdavia",100,"No se advierten da√±os",442,462,95.67
+"51",34062,"Congosto de Valdavia",200,"Causas desconocidas",6,462,1.3
+"52",34062,"Congosto de Valdavia",316,"Dominancia",9,462,1.95
+"53",34062,"Congosto de Valdavia",321,"Saca de madera",3,462,0.65
+"54",34062,"Congosto de Valdavia",322,"Causas antr√≥picas",2,462,0.43
+"55",34067,"Dehesa de Montejo",100,"No se advierten da√±os",79,89,88.76
+"56",34067,"Dehesa de Montejo",200,"Causas desconocidas",1,89,1.12
+"57",34067,"Dehesa de Montejo",311,"Insectos",4,89,4.49
+"58",34067,"Dehesa de Montejo",316,"Dominancia",5,89,5.62
+"59",34068,"Dehesa de Romanos",100,"No se advierten da√±os",39,44,88.64
+"60",34068,"Dehesa de Romanos",316,"Dominancia",3,44,6.82
+"61",34068,"Dehesa de Romanos",321,"Saca de madera",2,44,4.55
+"62",34071,"Espinosa de Villagonzalo",100,"No se advierten da√±os",57,59,96.61
+"63",34071,"Espinosa de Villagonzalo",200,"Causas desconocidas",1,59,1.69
+"64",34071,"Espinosa de Villagonzalo",300,"Da√±os bi√≥ticos",1,59,1.69
+"65",34073,"Fresno del RÌo",100,"No se advierten da√±os",337,349,96.56
+"66",34073,"Fresno del RÌo",200,"Causas desconocidas",1,349,0.29
+"67",34073,"Fresno del RÌo",316,"Dominancia",4,349,1.15
+"68",34073,"Fresno del RÌo",321,"Saca de madera",1,349,0.29
+"69",34073,"Fresno del RÌo",411,"Viento",6,349,1.72
+"70",34080,"Guardo",100,"No se advierten da√±os",156,174,89.66
+"71",34080,"Guardo",200,"Causas desconocidas",8,174,4.6
+"72",34080,"Guardo",310,"Hongos",2,174,1.15
+"73",34080,"Guardo",316,"Dominancia",8,174,4.6
+"74",34083,"Herrera de Pisuerga",100,"No se advierten da√±os",37,45,82.22
+"75",34083,"Herrera de Pisuerga",200,"Causas desconocidas",8,45,17.78
+"76",34091,"Lagartos",100,"No se advierten da√±os",87,94,92.55
+"77",34091,"Lagartos",200,"Causas desconocidas",3,94,3.19
+"78",34091,"Lagartos",421,"Fuego",4,94,4.26
+"79",34093,"La Vid de Ojeda",100,"No se advierten da√±os",22,22,100
+"80",34094,"Ledigos",100,"No se advierten da√±os",157,158,99.37
+"81",34094,"Ledigos",200,"Causas desconocidas",1,158,0.63
+"82",34100,"Mantinos",100,"No se advierten da√±os",142,151,94.04
+"83",34100,"Mantinos",200,"Causas desconocidas",4,151,2.65
+"84",34100,"Mantinos",316,"Dominancia",2,151,1.32
+"85",34100,"Mantinos",411,"Viento",3,151,1.99
+"86",34107,"Micieces de Ojeda",100,"No se advierten da√±os",38,40,95
+"87",34107,"Micieces de Ojeda",316,"Dominancia",1,40,2.5
+"88",34107,"Micieces de Ojeda",321,"Saca de madera",1,40,2.5
+"89",34110,"Mud·",100,"No se advierten da√±os",19,23,82.61
+"90",34110,"Mud·",316,"Dominancia",3,23,13.04
+"91",34110,"Mud·",400,"Da√±os abi√≥ticos",1,23,4.35
+"92",34114,"Olmos de Ojeda",100,"No se advierten da√±os",152,168,90.48
+"93",34114,"Olmos de Ojeda",316,"Dominancia",16,168,9.52
+"94",34122,"P·ramo de Boedo",100,"No se advierten da√±os",116,127,91.34
+"95",34122,"P·ramo de Boedo",316,"Dominancia",10,127,7.87
+"96",34122,"P·ramo de Boedo",421,"Fuego",1,127,0.79
+"97",34124,"Payo de Ojeda",100,"No se advierten da√±os",1,1,100
+"98",34129,"Pino del RÌo",100,"No se advierten da√±os",442,460,96.09
+"99",34129,"Pino del RÌo",200,"Causas desconocidas",3,460,0.65
+"100",34129,"Pino del RÌo",310,"Hongos",1,460,0.22
+"101",34129,"Pino del RÌo",316,"Dominancia",8,460,1.74
+"102",34129,"Pino del RÌo",321,"Saca de madera",3,460,0.65
+"103",34129,"Pino del RÌo",411,"Viento",3,460,0.65
+"104",34135,"Pomar de Valdivia",100,"No se advierten da√±os",75,79,94.94
+"105",34135,"Pomar de Valdivia",313,"Plantas ep√≠fitas",2,79,2.53
+"106",34135,"Pomar de Valdivia",400,"Da√±os abi√≥ticos",2,79,2.53
+"107",34136,"Poza de la Vega",421,"Fuego",8,8,100
+"108",34139,"Pr·danos de Ojeda",100,"No se advierten da√±os",68,83,81.93
+"109",34139,"Pr·danos de Ojeda",313,"Plantas ep√≠fitas",1,83,1.2
+"110",34139,"Pr·danos de Ojeda",316,"Dominancia",14,83,16.87
+"111",34140,"La Puebla de Valdavia",100,"No se advierten da√±os",92,111,82.88
+"112",34140,"La Puebla de Valdavia",316,"Dominancia",18,111,16.22
+"113",34140,"La Puebla de Valdavia",321,"Saca de madera",1,111,0.9
+"114",34151,"Respenda de la PeÒa",100,"No se advierten da√±os",242,290,83.45
+"115",34151,"Respenda de la PeÒa",200,"Causas desconocidas",33,290,11.38
+"116",34151,"Respenda de la PeÒa",311,"Insectos",6,290,2.07
+"117",34151,"Respenda de la PeÒa",316,"Dominancia",6,290,2.07
+"118",34151,"Respenda de la PeÒa",322,"Causas antr√≥picas",2,290,0.69
+"119",34151,"Respenda de la PeÒa",411,"Viento",1,290,0.34
+"120",34154,"Revilla de Collazos",100,"No se advierten da√±os",26,27,96.3
+"121",34154,"Revilla de Collazos",316,"Dominancia",1,27,3.7
+"122",34157,"SaldaÒa",100,"No se advierten da√±os",388,411,94.4
+"123",34157,"SaldaÒa",200,"Causas desconocidas",19,411,4.62
+"124",34157,"SaldaÒa",316,"Dominancia",4,411,0.97
+"125",34158,"Salinas de Pisuerga",100,"No se advierten da√±os",17,18,94.44
+"126",34158,"Salinas de Pisuerga",200,"Causas desconocidas",1,18,5.56
+"127",34168,"Santa Cruz de Boedo",100,"No se advierten da√±os",1,1,100
+"128",34169,"Santerv·s de la Vega",100,"No se advierten da√±os",371,380,97.63
+"129",34169,"Santerv·s de la Vega",200,"Causas desconocidas",5,380,1.32
+"130",34169,"Santerv·s de la Vega",316,"Dominancia",4,380,1.05
+"131",34171,"Santib·Òez de la PeÒa",100,"No se advierten da√±os",333,400,83.25
+"132",34171,"Santib·Òez de la PeÒa",200,"Causas desconocidas",17,400,4.25
+"133",34171,"Santib·Òez de la PeÒa",300,"Da√±os bi√≥ticos",9,400,2.25
+"134",34171,"Santib·Òez de la PeÒa",310,"Hongos",16,400,4
+"135",34171,"Santib·Òez de la PeÒa",316,"Dominancia",12,400,3
+"136",34171,"Santib·Òez de la PeÒa",321,"Saca de madera",3,400,0.75
+"137",34171,"Santib·Òez de la PeÒa",411,"Viento",1,400,0.25
+"138",34171,"Santib·Òez de la PeÒa",421,"Fuego",9,400,2.25
+"139",34176,"SotobaÒado y Priorato",100,"No se advierten da√±os",40,49,81.63
+"140",34176,"SotobaÒado y Priorato",316,"Dominancia",5,49,10.2
+"141",34176,"SotobaÒado y Priorato",321,"Saca de madera",1,49,2.04
+"142",34176,"SotobaÒado y Priorato",421,"Fuego",3,49,6.12
+"143",34179,"Tabanera de Valdavia",100,"No se advierten da√±os",66,69,95.65
+"144",34179,"Tabanera de Valdavia",314,"Fauna silvestre",1,69,1.45
+"145",34179,"Tabanera de Valdavia",321,"Saca de madera",2,69,2.9
+"146",34190,"Valderr·bano",200,"Causas desconocidas",9,10,90
+"147",34190,"Valderr·bano",300,"Da√±os bi√≥ticos",1,10,10
+"148",34199,"Velilla del RÌo CarriÛn",100,"No se advierten da√±os",631,677,93.21
+"149",34199,"Velilla del RÌo CarriÛn",200,"Causas desconocidas",2,677,0.3
+"150",34199,"Velilla del RÌo CarriÛn",300,"Da√±os bi√≥ticos",9,677,1.33
+"151",34199,"Velilla del RÌo CarriÛn",310,"Hongos",16,677,2.36
+"152",34199,"Velilla del RÌo CarriÛn",314,"Fauna silvestre",4,677,0.59
+"153",34199,"Velilla del RÌo CarriÛn",316,"Dominancia",13,677,1.92
+"154",34199,"Velilla del RÌo CarriÛn",321,"Saca de madera",1,677,0.15
+"155",34199,"Velilla del RÌo CarriÛn",400,"Da√±os abi√≥ticos",1,677,0.15
+"156",34208,"Villaeles de Valdavia",100,"No se advierten da√±os",163,177,92.09
+"157",34208,"Villaeles de Valdavia",316,"Dominancia",14,177,7.91
+"158",34214,"Villalba de Guardo",100,"No se advierten da√±os",228,236,96.61
+"159",34214,"Villalba de Guardo",200,"Causas desconocidas",6,236,2.54
+"160",34214,"Villalba de Guardo",314,"Fauna silvestre",1,236,0.42
+"161",34214,"Villalba de Guardo",321,"Saca de madera",1,236,0.42
+"162",34222,"Villameriel",100,"No se advierten da√±os",98,105,93.33
+"163",34222,"Villameriel",200,"Causas desconocidas",1,105,0.95
+"164",34222,"Villameriel",316,"Dominancia",6,105,5.71
+"165",34228,"VillanuÒo de Valdavia",100,"No se advierten da√±os",162,167,97.01
+"166",34228,"VillanuÒo de Valdavia",200,"Causas desconocidas",5,167,2.99
+"167",34229,"Villaprovedo",100,"No se advierten da√±os",2,2,100
+"168",34231,"VillarrabÈ",100,"No se advierten da√±os",72,73,98.63
+"169",34231,"VillarrabÈ",200,"Causas desconocidas",1,73,1.37
+"170",34234,"Villasila de Valdavia",100,"No se advierten da√±os",276,304,90.79
+"171",34234,"Villasila de Valdavia",200,"Causas desconocidas",2,304,0.66
+"172",34234,"Villasila de Valdavia",316,"Dominancia",26,304,8.55
+"173",34245,"Villota del P·ramo",100,"No se advierten da√±os",832,848,98.11
+"174",34245,"Villota del P·ramo",200,"Causas desconocidas",5,848,0.59
+"175",34245,"Villota del P·ramo",311,"Insectos",1,848,0.12
+"176",34245,"Villota del P·ramo",316,"Dominancia",7,848,0.83
+"177",34245,"Villota del P·ramo",321,"Saca de madera",1,848,0.12
+"178",34245,"Villota del P·ramo",411,"Viento",2,848,0.24
+"179",34901,"Osorno la Mayor",100,"No se advierten da√±os",97,97,100
+"180",34903,"Loma de Ucieza",100,"No se advierten da√±os",128,128,100
