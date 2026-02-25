@@ -69,7 +69,7 @@ This document describes **columns, types, units, and meaning** for every CSV gro
 |---|---|---|---|
 | `Estadillo`, `CoorX`, `CoorY` | — | — | Join keys. |
 | `SpeciesID` | integer | — | Species code. |
-| `SpeciesName` | string | — | Scientific or short name (already provided). |
+| `SpeciesName` | string | — | Scientific or short name. |
 | `DC` | integer | cm | Diameter class midpoint. |
 | `N_NFI*` | numeric | trees/ha | Tree density per edition. |
 | `BA_NFI*` | numeric | m²/ha | Basal area per edition. |
