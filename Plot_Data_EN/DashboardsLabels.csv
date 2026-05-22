@@ -4,7 +4,7 @@
 "Municipality / Municipality","","","Municipality where the forest plot is located","Municipio donde se localiza la parcela"
 "Public Utility Forest (MUP)","MUP","","Public forests officially declared as of public utility in Spain","Montes declarados de Utilidad Pública en España por su interés general"
 "Ownership","","","Type of land ownership (public, private, municipal, communal, etc.)","Tipo de propiedad del monte (público, privado, municipal, comunal, etc.)"
-"Boundary markers","","","","Presence of physical boundary markers delimiting the forest plot","Presencia de mojones u otros elementos físicos de delimitación del monte"
+"Boundary markers","","","Presence of physical boundary markers delimiting the forest plot","Presencia de mojones u otros elementos físicos de delimitación del monte"
 "Legally demarcated","","","","Whether the forest boundary has been legally demarcated or delimited","Indica si el monte ha sido deslindado o delimitado legalmente"
 "Protected area","","","Protected designation under Spanish Law 42/2007 (parks, reserves, natural monuments, protected landscapes)","Figura de protección según la Ley 42/2007 (parques, reservas, monumentos naturales, paisajes protegidos)"
 "Altitude","","m","Elevation above sea level derived from a digital elevation model (DEM)","Altitud sobre el nivel del mar obtenida a partir de un modelo digital del terreno (MDT)"
