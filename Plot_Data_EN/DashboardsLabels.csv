@@ -40,7 +40,7 @@
 "Tree layer","Estrato arboreo","","","","Characteristics of the main 3 tree species in the plot","Características de las 3 especies principales de árboles en la parcela"
 "Age","Edad","","","","Age of the main species in the plot","Edad de las especies principales de la parcela"
 "Development stage", "Estado de desarrollo","","","","Stand development stages: regeneration,  thicket, polewood, old growth","Clases de desarrollo: repoblado, monte bravo, latizal o fustal"
-"Origin","Origen","","","","","Stand origin: natural, artificial or naturalized (seed, planting, sprouting)","Origen de la masa: natural, artificial o naturalizado (semilla, plantación, brote)"
+"Origin","Origen","","","","Stand origin: natural, artificial or naturalized (seed, planting, sprouting)","Origen de la masa: natural, artificial o naturalizado (semilla, plantación, brote)"
 "Regeneration density", "Densidad de regenerado","","","nº of stems","Density of natural regeneration in a 5 m subplot (<2.5 cm DBH or <1.3 m height)","Densidad de regeneración en subparcela de 5 m (<2,5 cm de diámetro o <1,3 m de altura)"
 "Shrub layer", "Estrato arbustivo","","","","Characteristics of the main shrub layer in the plot","Características del estrato de matorral de la parcela"
 "Shrub canopy cover", "Fracción de cabida cubierta del matorral","CCm","FCCm","%","Fraction of ground covered by shrub species in the plot","Fracción de cabida cubierta de las especies de matorral en la parcela"
