@@ -1,0 +1,4 @@
+This repository contains a collection of Walter–Lieth climodiagrams generated for National Forest Inventory (NFI/IFN) plots using climatic data from the 1991–2020 reference period from WorldClim. 
+The dataset includes monthly temperature and precipitation values used to generate the climodiagrams, following the Walter–Lieth methodology. In addition, the repository incorporates the De Martonne aridity index.
+
+  
