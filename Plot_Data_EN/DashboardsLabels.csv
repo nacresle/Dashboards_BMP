@@ -17,7 +17,7 @@
 "Forest stocks","Existencias forestales","","","","Standing forest resources including trees and shrubs","Existencias forestales de la parcela (arbolado y matorral)"
 "Stand density","Densidad de la masa","N", "N","trees/ha","Number of trees per hectare","Número de árboles por hectárea"
 "Basal area","Área basimétrica","G", "AB","m2/ha","Total cross-sectional area of trees at breast height per hectare","Área basimétrica total por hectárea"
-"Volume over bark", "Volumen con corteza","V","m3/ha","Total stem volume including bark per hectare","Volumen total con corteza por hectárea"
+"Volume over bark", "Volumen con corteza","", "VCC","m3/ha","Total stem volume including bark per hectare","Volumen total con corteza por hectárea"
 "Diameter class", "Clase diamétrica","DC", "CD","","Grouping of trees into 5 cm width classes based on their diameter at breast height","Agrupación de árboles en clases diamétricas de 5 cm de amplitud según su diámetro a la altura del pecho"
 "Forest damage", "Daños arbolado","","","","Sanitary condition of trees in the plot","Estado fitosanitario de los árboles en la parcela"
 "Wood quality", "Calidad de la madera","","","","Wood quality based on tree form, health condition and potential uses","Calidad de la madera en función de la forma del árbol, estado sanitario y usos potenciales"
