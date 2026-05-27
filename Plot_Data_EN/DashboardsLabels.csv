@@ -2,7 +2,7 @@
 "Situation", "Situación","", "","","Spatial and administrative context of the plot, including territorial boundaries and legal status","Contexto espacial y administrativo de la parcela, incluyendo límites territoriales y situación legal"
 "County", "Comarca","","","","County where the plot is located","Comarca donde se localiza la parcela"
 "Municipality","Municipio","","","","Municipality where the plot is located","Municipio donde se localiza la parcela"
-"Public Utility Forest","Montes de Utilidad Pública","","MUP","","Public forests officially declared as of public utility in Spain","Montes declarados de Utilidad Pública en España por su interés general"
+"Public Utility Forest","Montes de Utilidad Pública","MUP","MUP","","Public forests officially declared as of public utility in Spain","Montes declarados de Utilidad Pública en España por su interés general"
 "Ownership", "Propiedad","","","","Type of land ownership (public, private, municipal, etc.)","Tipo de propiedad del monte (público, privado, municipal, etc.)"
 "Boundary markers", "Amojonado", "","","","Presence of physical boundary markers delimiting the forest plot","Presencia de mojones u otros elementos físicos de delimitación del monte"
 "Legally demarcated", "Deslindado","","","","Whether the forest boundary has been legally demarcated or delimited","Indica si el monte ha sido deslindado o delimitado legalmente"
