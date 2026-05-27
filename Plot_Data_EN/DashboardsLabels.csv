@@ -7,7 +7,7 @@
 "Boundary markers", "Amojonado", "","","","Presence of physical boundary markers delimiting the forest plot","Presencia de mojones u otros elementos físicos de delimitación del monte"
 "Legally demarcated", "Deslindado","","","","Whether the forest boundary has been legally demarcated or delimited","Indica si el monte ha sido deslindado o delimitado legalmente"
 "Protected area", "Espacio protegido","","","","Protected designation under Spanish Law 42/2007 (parks, reserves, natural monuments, protected landscapes)","Figura de protección según la Ley 42/2007 (parques, reservas, monumentos naturales, paisajes protegidos)"
-"Altitude", "Altitud","","","","m","Elevation above sea level derived from a digital elevation model (DEM)","Altitud sobre el nivel del mar obtenida a partir de un modelo digital del terreno (MDT)"
+"Altitude", "Altitud","","","m","Elevation above sea level derived from a digital elevation model (DEM)","Altitud sobre el nivel del mar obtenida a partir de un modelo digital del terreno (MDT)"
 "Main slope", "Pediente principal","","","°","Maximum slope of the plot expressed in degrees","Pendiente máxima de la parcela expresada en grados"
 "Aspect of main slope", "Orientación de la pendiente principal","","","°","Aspect (azimuth) of the steepest slope direction","Orientación (azimut) de la dirección de máxima pendiente"
 "Exposure", "Exposición","","","","Topographic exposure (north-facing / south-facing conditions)","Exposición topográfica de la parcela (umbría o solana)"
