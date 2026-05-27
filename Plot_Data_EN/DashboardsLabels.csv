@@ -34,7 +34,7 @@
 "Species composition","Composición específica","","","","Species dominance based on basal area proportion (pure ≥90%, mixed otherwise)","Composición específica según proporción de área basimétrica (masas puras ≥90%, mixtas en caso contrario)"
 "Stand structure","Forma principal de la masa","","","","Stand structure classified as even-aged (<=2 DC) or uneven-aged (>2 DC) based on diameter classes","Estructura de la masa según clases diamétricas en masa regular (<= 2CD) o irregular (>2CD)"
 "Shannon diversity index", "índice de diversidad de Shannon","S","S","","Shannon index measuring species diversity","Índice de diversidad de Shannon"
-"Slenderness index", "índice de esbeltez","","","Ratio between tree height and diameter","Relación entre altura y diámetro del arbolado"
+"Slenderness index", "índice de esbeltez","","", "","Ratio between tree height and diameter","Relación entre altura y diámetro del arbolado"
 "Relative stand density index","índice relativo de Reineke","SDIR","","%","Stand density relative to reference conditions","Índice de densidad relativa de la masa"
 "Hart competition index", "Índice de Hart","H","H","","Index based on tree spacing and stand competition","Índice de competencia de Hart"
 "Tree layer","Estrato arboreo","","","","Characteristics of the main 3 tree species in the plot","Características de las 3 especies principales de árboles en la parcela"
