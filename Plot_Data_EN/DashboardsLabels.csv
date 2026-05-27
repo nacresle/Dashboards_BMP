@@ -26,7 +26,7 @@
 "Field data collection date", "Fecha de toma de datos de campo","","","","Date of field inventory data acquisition","Fecha de toma de datos de campo del inventario"
 "Tree canopy cover", "Fracción de cabida cubierta del arbolado","TCC","FCC","%","Proportion of ground covered by tree canopy projection","Porcentaje de superficie cubierta por la proyección de copas arbóreas"
 "Trees measured", "Nº de pies medidos","","","trees/plot","Number of trees measured within the sample plot","Número de árboles medidos en la parcela de muestreo"
-"Dominant height", "Altura dominante","Ho","Ho,"m","Assmann dominant height: mean height of the 100 thickest trees per hectare","Altura dominante de Assmann: media de los 100 árboles más gruesos por hectárea"
+"Dominant height", "Altura dominante","Ho","Ho","m","Assmann dominant height: mean height of the 100 thickest trees per hectare","Altura dominante de Assmann: media de los 100 árboles más gruesos por hectárea"
 "Mean height", "Altura media","Hm", "Hm","m","Arithmetic mean height of all measured trees","Altura media aritmética de todos los árboles medidos"
 "Quadratic mean diameter","Diámetro medio cuadratico","Dg","Dg","cm","Diameter corresponding to the mean basal area tree","Diámetro medio cuadrático"
 "Mean diameter", "Diámetro medio","Dm","Dm","cm","Arithmetic mean diameter of all trees","Diámetro medio aritmético"
